@@ -15,7 +15,7 @@ tensorflow 1.5.0 ( CPU )
 Keras 2.1.5
 ```
 
-### Folder structure
+### Folder Structure
 
 The CRP dataset has been collected for 64 bit and 128 bit challenges. The Example Folder structure from root directory (Main) is given below.
 ```
