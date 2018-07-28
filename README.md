@@ -112,10 +112,10 @@ Main
 
 ## Running the tests
 
-For running the tests, go to the respective PUF folder
-
+For running the tests, go to the respective PUF folder and execute
+```
 python <filename>.py
-
+```
 
 ## Authors
 
@@ -124,3 +124,7 @@ python <filename>.py
 * **Rajat Subhra Chakraborty** - Email: [(rschakraborty@cse.iitkgp.ernet.in )]
 
 ## Citation Code
+```
+
+
+```
