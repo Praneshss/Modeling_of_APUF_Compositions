@@ -13,6 +13,11 @@ What things you need to install the software and how to install them
 python 2.7
 tensorflow 1.5.0 ( CPU )
 Keras 2.1.5
+
+Other important packages required in python:
+numpy 
+pandas
+sklearn
 ```
 
 ### Folder Structure
