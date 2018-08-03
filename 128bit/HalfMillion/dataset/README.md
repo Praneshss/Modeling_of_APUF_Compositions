@@ -1,4 +1,4 @@
-This folder contains the (128 bit Challenge and Half Million CRPs) parity vector file.
+This folder contains the (128 bit Challenge and Half Million Challenges) parity vector file.
 
 Update!
 
