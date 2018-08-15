@@ -1,6 +1,6 @@
 
 
-This folder contains the python modeling code and dataset related to LSPUF
+This folder contains the python modeling code and dataset related to LSPUF 64-bit challenge
 
 
 
