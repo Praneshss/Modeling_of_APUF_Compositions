@@ -20,7 +20,7 @@ k = x + 1
 
 m = x
 
-s = 1
+s = 0
 
 Folder name Convention:
 
