@@ -29,8 +29,6 @@ Main
 |   |-- 1Million
 |   |   |-- 5-XOR
 |   |   |   |-- 5-xor_apuf_128.py
-|   |   |-- I-PUF_4_3
-|   |   |   |-- ipuf_4_3_128.py
 |   |   |-- I-PUF_4_4
 |   |   |   |-- ipuf_4_4_128.py
 |   |   |-- all_responses
@@ -74,10 +72,6 @@ Main
 |   |   |   |   |-- lspuf_6_64.py
 |   |   |-- I-PUF_3_3
 |   |   |   |-- ipuf_3_3_64.py
-|   |   |-- I-PUF_3_4
-|   |   |   |-- ipuf_3_4_64.py
-|   |   |-- I-PUF_4_3
-|   |   |   |-- ipuf_4_3_64.py
 |   |   |-- I-PUF_4_4
 |   |   |   |-- ipuf_4_4_64.py
 |   |   |-- all_responses
