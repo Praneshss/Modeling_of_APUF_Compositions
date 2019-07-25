@@ -124,6 +124,12 @@ python <filename>.py
 
 ## Citation Code
 ```
-
+@misc{cryptoeprint:2019:566,
+    author = {Pranesh Santikellur and Aritra  Bhattacharyay and Rajat Subhra Chakraborty},
+    title = {Deep Learning based Model Building Attacks on Arbiter PUF Compositions},
+    howpublished = {Cryptology ePrint Archive, Report 2019/566},
+    year = {2019},
+    note = {\url{https://eprint.iacr.org/2019/566}},
+}
 
 ```
