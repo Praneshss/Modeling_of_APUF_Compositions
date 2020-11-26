@@ -1,6 +1,6 @@
 # Modeling_of_APUF_Compositions
 
-Python Code and dataset for APUF and its Compositions. This code corresponds to attack implementations mentioned in the paper "Deep Learning based Model Building Attacks onArbiter PUF Compositions"
+Python Code and dataset for APUF and its Compositions. This code corresponds to attack implementations mentioned in the paper "Deep Learning based Model Building Attacks on Arbiter PUF Compositions"
 
 ## Getting Started
 Below details will provide you instructions for understaning the directory and get it running on your machine for reproducibility.
