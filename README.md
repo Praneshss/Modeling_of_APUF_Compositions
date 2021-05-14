@@ -1,3 +1,6 @@
+For DFFNN PUF attack tool ( for all PUFs) can be found at: https://github.com/Praneshss/DFFNN-PUF-Attack-Tool
+
+
 # Modeling_of_APUF_Compositions
 
 Python Code and dataset for APUF and its Compositions. This code corresponds to attack implementations mentioned in the paper "Deep Learning based Model Building Attacks on Arbiter PUF Compositions"
