@@ -125,6 +125,15 @@ python <filename>.py
 * **Aritra Bhattacharyay** - Email: [(aritrab97@gmail.com )]
 * **Rajat Subhra Chakraborty** - Email: [(rschakraborty@cse.iitkgp.ernet.in )]
 
+## Career Roadmap
+
+Interested in applying hardware security knowledge to broader computer architecture and power-performance modeling roles? See the [Career Roadmap](CAREER_ROADMAP.md) for a structured 18-month plan covering:
+
+- Computer Architecture fundamentals (pipelining, memory hierarchy, out-of-order execution)
+- Power & Performance Modeling (McPAT, CACTI, gem5, Roofline model)
+- Tools, simulators, and benchmark suites used in industry and research
+- How PUF modeling experience from this repository connects to those roles
+
 ## Citation Code
 ```
 @misc{cryptoeprint:2019:566,
